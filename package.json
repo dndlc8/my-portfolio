@@ -30,5 +30,14 @@
   "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
   "main": "index.js",
   "author": "Dominique De La Cruz",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dndlc8/my-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dndlc8/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/dndlc8/my-portfolio#readme"
 }
